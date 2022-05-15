@@ -1,4 +1,5 @@
 # brownie_fund_me
+
 This Smart Contract Application is designed to provide an easy way to fund a project.
 The Application accepts financing from different sources - much like kickstarter.
 The creator of the fund project is the only able to take out any of the deposited funding.
